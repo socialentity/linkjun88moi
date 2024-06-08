@@ -1,7 +1,7 @@
 JUN88 - Sân chơi trực tuyến hàng đầu
 ===================================
 
-Jun88 là sân chơi trực tuyến được thành lập tại Philippines vào năm 2006. Nhà cái được cấp phép và quản lý bởi Tập đoàn Giải trí và Trò chơi Philippine (PAGCOR) và hoạt động hợp pháp tại một số quốc gia như Việt Nam, Thái Lan, Indonesia, Malaysia và Campuchia.
+`Jun88 <https://170.64.253.19/>`_ là sân chơi trực tuyến được thành lập tại Philippines vào năm 2006. Nhà cái được cấp phép và quản lý bởi Tập đoàn Giải trí và Trò chơi Philippine (PAGCOR) và hoạt động hợp pháp tại một số quốc gia như Việt Nam, Thái Lan, Indonesia, Malaysia và Campuchia.
 
 Website: https://170.64.253.19/
 
